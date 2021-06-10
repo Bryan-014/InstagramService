@@ -544,6 +544,8 @@ Skipupdate:
 
         End If
 
+        'bla
+
         If Lb_add.Text = "Hashtag:" Then
 
             If Txt_add.Text = "" Then
